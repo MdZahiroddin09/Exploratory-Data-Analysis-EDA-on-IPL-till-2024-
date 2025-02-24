@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-EDA-on-IPL(till-2024)
-Tools Used: Pandas, NumPy, Seaborn, Matplotlib and Plotly.<br>
+Tools Used: Pandas, NumPy, Seaborn, Matplotlib ,Plotly and Jupyter.<br>
 Perform EDA on IPL data to gain insights into teams, batsmen, bowlers, and overall performance trends till 2024.<br>
 Dataset Description: Analyzed the IPL match table with 1,095 records across 20 columns and the delivery table with 260,920 records across 17 columns.<br>
 Data Cleaning: Performed 4 essential data cleaning steps including treating missing values using groupby() and fillna(), correcting inconsistent values with replace() after identifying them via unique(), visualizing and identifying outliers through box plots (which were retained as valid data points), and checking for duplicates using duplicated() and sum() functions (no duplicates found).<br>
